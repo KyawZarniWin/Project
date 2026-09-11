@@ -1,4 +1,4 @@
-num1=input("Enter Num1")
-num2=input("Enter Num2")
-sum=num1+num2
-print("Result",sum)
+num1=input("Enter Num1 : ")
+num2=input("Enter Num2 : ")
+sub=num1/num2
+print("Result",sub)
